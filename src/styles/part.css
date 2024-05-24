@@ -1,0 +1,13 @@
+.cuadro {
+  width: 150px;
+  height: 150px;
+  position: absolute; 
+  overflow: hidden;
+  border: 1px solid black;
+}
+
+.imagen {
+  position: absolute;
+  width: 400%;
+  height: 400%;
+}
